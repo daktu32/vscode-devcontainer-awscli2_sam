@@ -6,6 +6,6 @@ This definitions contains
   * AWS Serverless Application Model (ASM)
   * Python 3.x(latest)
 
-* References
+## References
   https://github.com/microsoft/vscode-dev-containers/tree/master/containers
   
